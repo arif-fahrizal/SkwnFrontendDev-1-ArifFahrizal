@@ -87,5 +87,3 @@ furniture-landing-page/
 - **Endpoint API**: Ubah endpoint API di `script.js` jika Anda ingin mengambil data dari sumber lain.
 - **Styling**: Modifikasi `style.css` untuk menyesuaikan tampilan dan nuansa halaman depan.
 - **JavaScript**: Perbarui `script.js` untuk menambah atau memodifikasi fungsionalitas, seperti animasi atau perilaku carousel.
-
-Silakan sesuaikan README ini dengan detail spesifik dan tambahan bagian sesuai kebutuhan.
