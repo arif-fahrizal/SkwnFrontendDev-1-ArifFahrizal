@@ -1,8 +1,3 @@
-
-Berikut adalah contoh **README.md** yang mencakup informasi tentang **cara memulai proyek** dan **furniture landing page** Anda:
-
----
-
 # Furniture Landing Page
 
 This project is a **furniture landing page** featuring a dynamic carousel to showcase various furniture items. The carousel allows users to navigate through different products, with interactive hover effects to enlarge items and display product details. Built using **HTML**, **CSS**, and **jQuery**, this page fetches product data from an API and provides a responsive and engaging user experience.
